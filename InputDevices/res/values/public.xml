@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_default" id="0x7f020000" />
+    <public type="drawable" name="ic_launcher" id="0x7f020001" />
+    <public type="layout" name="hwa_settings_activity" id="0x7f030000" />
+    <public type="layout" name="hwa_settings_row" id="0x7f030001" />
+    <public type="string" name="app_name" id="0x7f040000" />
+    <public type="string" name="hwa_settings_image_content" id="0x7f040001" />
+    <public type="string" name="hwa_settings_hwa_disabled_toast" id="0x7f040002" />
+    <public type="string" name="hwa_settings_hwa_disable_failed_toast" id="0x7f040003" />
+    <public type="string" name="hwa_settings_hwa_enabled_toast" id="0x7f040004" />
+    <public type="string" name="hwa_settings_hwa_enable_failed_toast" id="0x7f040005" />
+    <public type="string" name="hwa_settings_search_hint" id="0x7f040006" />
+    <public type="string" name="hwa_settings_database_upgrade" id="0x7f040007" />
+    <public type="id" name="hwa_package_list_search_view" id="0x7f050000" />
+    <public type="id" name="hwa_package_list_fragment" id="0x7f050001" />
+    <public type="id" name="hwa_settings_app_icon" id="0x7f050002" />
+    <public type="id" name="hwa_settings_name" id="0x7f050003" />
+    <public type="id" name="hwa_settings_packagename" id="0x7f050004" />
+    <public type="id" name="hwa_settings_enabled" id="0x7f050005" />
+</resources>

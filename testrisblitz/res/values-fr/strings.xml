@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thèmes</string>
+    <string name="menu_apply">Appliquer</string>
+    <string name="menu_uninstall">Désinstaller</string>
+    <string name="menu_about">A propos</string>
+    <string name="theme_current">%s (actuel)</string>
+    <string name="theme_current_author">Auteur :</string>
+    <string name="theme_current_name">Nom :</string>
+    <string name="theme_current_package">Package :</string>
+    <string name="theme_change_dialog_title">En cours…</string>
+    <string name="switching_to_theme">Application du thème %s…</string>
+    <string name="dialog_theme_error_title">Erreur de thème</string>
+    <string name="dialog_missing_host_density_msg">"Désolé, ce thème n'est pas compatible avec la résolution de votre écran."</string>
+    <string name="dialog_missing_theme_package_scope_msg">"Ce thème n'a pas été compilé correctement et ne peut être appliqué. Veuillez le signaler à son créateur."</string>
+    <string name="dialog_apply_anyway_btn">Appliquer quand même</string>
+    <string name="dialog_bummer_btn">Annuler</string>
+</resources>

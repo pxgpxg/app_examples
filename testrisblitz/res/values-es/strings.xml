@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temas</string>
+    <string name="menu_apply">Aplicar</string>
+    <string name="menu_uninstall">Desinstalar</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="theme_current">%s (actual)</string>
+    <string name="theme_current_author">Autor:</string>
+    <string name="theme_current_name">Nombre:</string>
+    <string name="theme_current_package">Paquete:</string>
+    <string name="theme_change_dialog_title">Aplicando…</string>
+    <string name="switching_to_theme">Cambiando a %s…</string>
+    <string name="dialog_theme_error_title">Error</string>
+    <string name="dialog_missing_host_density_msg">Este tema estará incompleto si se aplica para el tamaño de pantalla de este dispositivo</string>
+    <string name="dialog_missing_theme_package_scope_msg">Este tema ha sido incorrectamente compilado y no se puede instalar. Por favor, informa al autor del tema sobre ésto</string>
+    <string name="dialog_apply_anyway_btn">Continuar</string>
+    <string name="dialog_bummer_btn">Cancelar</string>
+</resources>

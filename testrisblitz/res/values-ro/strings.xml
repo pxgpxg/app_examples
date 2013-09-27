@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Selector Temă</string>
+    <string name="menu_apply">Aplicaţi</string>
+    <string name="menu_uninstall">Dezinstalaţi</string>
+    <string name="theme_current">%s (actual)</string>
+    <string name="theme_change_dialog_title">Aplicare…</string>
+    <string name="switching_to_theme">Comutare la %s…</string>
+    <string name="dialog_theme_error_title">Eroare temă</string>
+    <string name="dialog_missing_host_density_msg">Ne pare rău, această temă nu este compatibilă cu dimensiunea ecranului dispozitivului.</string>
+    <string name="dialog_missing_theme_package_scope_msg">Această temă a fost compilată în mod necorespunzător şi nu poate fi aplicată. Vă rugăm raportaţi acest incident autorului temei.</string>
+    <string name="dialog_apply_anyway_btn">Se aplică oricum</string>
+    <string name="dialog_bummer_btn">Păcat</string>
+</resources>

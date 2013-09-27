@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tmobile.themechooser.ReflectionLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/theme_preview" android:background="@*android:color/black" android:layout_width="@dimen/preview_width_size" android:layout_height="@dimen/preview_height_size" android:scaleType="fitXY" android:adjustViewBounds="true" />
+</com.tmobile.themechooser.ReflectionLayout>

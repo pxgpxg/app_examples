@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hitelesítő adatok tárolója</string>
+    <string name="title_no_certs">Nem található tanusítvány</string>
+    <string name="title_select_cert">Válasszon tanúsítványt</string>
+    <string name="requesting_application">A(z) %s alkalmazás tanúsítványt kér. Válassza ki azt tanúsítványt, amit a jövőben azonosításra használhat.</string>
+    <string name="requesting_server">Kérelmező szerver: %s. Csak akkor bíztosítson hozzáférést a tanusítványhoz, ha megbízik az alkalmazásban.</string>
+    <string name="install_new_cert_message">A külső memóriakártyáról %1$s vagy %2$s kiterjesztésű PKCS#12 tanusítvány telepíthető.</string>
+    <string name="install_new_cert_button_label">Telepítés</string>
+    <string name="allow_button">Engedélyez</string>
+    <string name="deny_button">Megtagad</string>
+</resources>

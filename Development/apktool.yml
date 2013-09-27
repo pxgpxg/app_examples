@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: 42.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '17'
+  targetSdkVersion: '17'
+packageInfo:
+  cur_package: com.android.defcontainer
+  orig_package: com.android.defcontainer
+compressionType: false

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Темы</string>
+    <string name="menu_apply">Применить</string>
+    <string name="menu_uninstall">Удалить</string>
+    <string name="theme_current">%s (текущая)</string>
+    <string name="theme_change_dialog_title">Применение…</string>
+    <string name="switching_to_theme">Переключение на %s…</string>
+    <string name="dialog_theme_error_title">Ошибка темы</string>
+    <string name="dialog_missing_host_density_msg">К сожалению, эта тема не содержит ресурсов для размера экрана вашего устройства.</string>
+    <string name="dialog_missing_theme_package_scope_msg">Эта тема была собрана не правильно и не может быть применена. Пожалуйста, сообщите об этом автору темы.</string>
+    <string name="dialog_apply_anyway_btn">Всё равно применить</string>
+    <string name="dialog_bummer_btn">Жаль...</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ערכות נושא</string>
+    <string name="menu_apply">החל</string>
+    <string name="menu_uninstall">הסר</string>
+    <string name="theme_current">%s (נוכחי)</string>
+    <string name="theme_change_dialog_title">מחיל…</string>
+    <string name="switching_to_theme">מחליף ל %s…</string>
+    <string name="dialog_theme_error_title">שגיאת בערכת נושא</string>
+    <string name="dialog_missing_host_density_msg">מצטערים, בערכת נושא זו חסרים קבצים לגודל המסך של המכשיר שלך</string>
+    <string name="dialog_missing_theme_package_scope_msg">ערכת נושא זו הורכבה באופן שגוי ואין אפשרות להחילה. אנא דווח על מקרה זה ליוצר ערכת הנושא.</string>
+    <string name="dialog_apply_anyway_btn">החל בכל מקרה</string>
+    <string name="dialog_bummer_btn">באסה</string>
+</resources>

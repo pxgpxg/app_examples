@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nøglelager</string>
+    <string name="title_no_certs">Ingen certifikater fundet</string>
+    <string name="title_select_cert">Vælg certifikat</string>
+    <string name="requesting_application">Appen %s har anmodet om et certifikat. At vælge certifikat vil lade appen bruge denne identitet med servere nu og i fremtiden.</string>
+    <string name="requesting_server">Appen har identificeret den anmodende server som %s, men du bør kun give appen adgang til certifikatet, hvis du har tillid til appen.</string>
+    <string name="install_new_cert_message">Du kan installere certifikater fra en PKCS#12 fil af typen %1$s eller %2$s placeret i eksternt lager.</string>
+    <string name="install_new_cert_button_label">Installer</string>
+    <string name="allow_button">Tillad</string>
+    <string name="deny_button">Afvis</string>
+</resources>

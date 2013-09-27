@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Themes</string>
+    <string name="menu_apply">Apply</string>
+    <string name="menu_uninstall">Uninstall</string>
+    <string name="menu_about">About</string>
+    <string name="theme_current">%s (current)</string>
+    <string name="theme_current_author">Author:</string>
+    <string name="theme_current_name">Name:</string>
+    <string name="theme_current_package">Package:</string>
+    <string name="theme_change_dialog_title">Applying…</string>
+    <string name="switching_to_theme">Switching to %s…</string>
+    <string name="item_count">%1$d/%2$d</string>
+    <string name="dialog_theme_error_title">Theme error</string>
+    <string name="dialog_missing_host_density_msg">"This theme is missing assets for your device's screen resolution."</string>
+    <string name="dialog_missing_theme_package_scope_msg">This theme was improperly compiled and cannot be applied.</string>
+    <string name="dialog_apply_anyway_btn">Apply anyway</string>
+    <string name="dialog_bummer_btn">Cancel</string>
+</resources>

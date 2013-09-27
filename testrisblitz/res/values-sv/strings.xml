@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temaväljare</string>
+    <string name="menu_apply">Applicera</string>
+    <string name="menu_uninstall">Avinstallera</string>
+    <string name="theme_current">%s (nuvarande)</string>
+    <string name="theme_change_dialog_title">Tillämpar…</string>
+    <string name="switching_to_theme">Växlar till %s…</string>
+    <string name="dialog_theme_error_title">Temafel</string>
+    <string name="dialog_missing_host_density_msg">Tyvärr, detta tema saknar grafiska element för enhetens skärmstorlek.</string>
+    <string name="dialog_missing_theme_package_scope_msg">Detta tema är felaktigt kompilerat och kan inte tillämpas. Vänligen rapportera denna incident till tema-utvecklaren.</string>
+    <string name="dialog_apply_anyway_btn">Tillämpa ändå</string>
+    <string name="dialog_bummer_btn">Bummer</string>
+</resources>

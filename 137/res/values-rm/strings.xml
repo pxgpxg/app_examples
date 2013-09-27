@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registratur da tun</string>
+    <string name="record_your_message">Registrar Voss messadi</string>
+    <string name="message_recorded">Registrà il messadi</string>
+    <string name="review_message">Controlla da messadis</string>
+    <string name="recording">Registraziun</string>
+    <string name="recording_stopped">Terminà la registraziun</string>
+    <string name="storage_is_full">La memoria è plaina</string>
+    <string name="max_length_reached">Cuntanschì la lunghezza maximala</string>
+    <string name="min_available">%d min disponiblas</string>
+    <string name="sec_available">%d sec disponiblas</string>
+    <string name="discard">Annullar</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Vossas registraziuns</string>
+    <string name="audio_db_album_name">Registraziuns da tun</string>
+    <string name="audio_db_playlist_name">Mias registraziuns</string>
+</resources>

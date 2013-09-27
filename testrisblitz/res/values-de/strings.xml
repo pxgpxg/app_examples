@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Designs</string>
+    <string name="menu_apply">Aktivieren</string>
+    <string name="menu_uninstall">Deinstallieren</string>
+    <string name="menu_about">Über</string>
+    <string name="theme_current">%s (aktuell)</string>
+    <string name="theme_current_author">Autor:</string>
+    <string name="theme_current_name">Name:</string>
+    <string name="theme_current_package">Paket:</string>
+    <string name="theme_change_dialog_title">Bitte warten…</string>
+    <string name="switching_to_theme">%s wird aktiviert…</string>
+    <string name="dialog_theme_error_title">Fehler</string>
+    <string name="dialog_missing_host_density_msg">Diesem Design fehlen Inhalte für die Bildschirmauflösung des Gerätes.</string>
+    <string name="dialog_missing_theme_package_scope_msg">Dieses Design ist fehlerhaft und kann nicht aktiviert werden.</string>
+    <string name="dialog_apply_anyway_btn">Trotzdem aktivieren</string>
+    <string name="dialog_bummer_btn">Abbrechen</string>
+</resources>

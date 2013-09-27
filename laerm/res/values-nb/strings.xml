@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nøkkelknippe</string>
+    <string name="title_no_certs">Ingen sertifikater funnet</string>
+    <string name="title_select_cert">Velg sertifikat</string>
+    <string name="requesting_application">Appen %s har bedt om et sertifikat. Å velge et sertifikat lar appen bruke denne identiteten med servere nå og framtidig.</string>
+    <string name="requesting_server">Appen har identifisert den anmodende serveren som %s, men du burde kun gi appen tilgang til sertifikatet dersom du stoler på den.</string>
+    <string name="install_new_cert_message">Du kan installere sertifikater fra en PKCS#12-fil av typen %1$s eller %2$s fra en ekstern enhet.</string>
+    <string name="install_new_cert_button_label">Installer</string>
+    <string name="allow_button">Tillat</string>
+    <string name="deny_button">Avvis</string>
+</resources>

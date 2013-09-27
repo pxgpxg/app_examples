@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Themakiezer</string>
+    <string name="menu_apply">Toepassen</string>
+    <string name="menu_uninstall">Verwijderen</string>
+    <string name="theme_current">%s (huidige)</string>
+    <string name="theme_current_author">Maker:</string>
+    <string name="theme_current_name">Naam:</string>
+    <string name="theme_current_package">Pakket:</string>
+    <string name="theme_change_dialog_title">Toepassen…</string>
+    <string name="switching_to_theme">Veranderen naar %s…</string>
+    <string name="dialog_theme_error_title">Themafout</string>
+    <string name="dialog_missing_host_density_msg">Dit thema mist bestanden voor de schermgrootte van uw apparaat</string>
+    <string name="dialog_missing_theme_package_scope_msg">Dit thema is onjuist gecompileerd en kan niet worden toegepast. Meld dit a.u.b. aan de maker van dit thema</string>
+    <string name="dialog_apply_anyway_btn">Toch toepassen</string>
+    <string name="dialog_bummer_btn">Annuleren</string>
+</resources>
