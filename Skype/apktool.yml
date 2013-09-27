@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: 130.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '17'
+  targetSdkVersion: '17'
+packageInfo:
+  orig_package: com.android.sharedstoragebackup
+  cur_package: android
+compressionType: false
